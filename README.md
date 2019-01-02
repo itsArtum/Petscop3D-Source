@@ -1,8 +1,8 @@
 # Petscop3D-Source
-Petscop3D source code!
+The Petscop3D source code!
 
-Feel free to update or whatever.
+Feel free to update or whatever (although if you want to actually contribute to this, you should probably start with modifying the newest-version branch rather than using this master branch, even if the newest version contains bugs).
 
-Open with Gamemaker Studio 1.4+
+Make sure to open the .project file with Gamemaker Studio 1.4+
 
 I am not responsible for any gamejacks to come from this!
